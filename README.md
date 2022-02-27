@@ -7,6 +7,9 @@ A Google Data Studio Dahsboard Tour
 ![Functionalities](https://github.com/officialAmanchauhan/Analysis-Report/blob/main/1.png)
 
 # Real Time Dashboards I Made
+
+## Dashboards -> [Here](https://github.com/officialAmanchauhan/Analysis-Report/blob/main/Reports/Dashboardpdf.pdf)
+
 ## 1.Real Time Dashboard -> [Here](https://datastudio.google.com/reporting/35025143-6c49-437a-8ce1-20a86abc9189)
 ![Dasboard](https://github.com/officialAmanchauhan/Analysis-Report/blob/main/report.png)
 
